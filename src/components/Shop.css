@@ -1,0 +1,26 @@
+.shop-main {
+  width: 85%;
+  margin: 50px auto 0 auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.mar {
+  margin-top: 45px;
+}
+.shop-header {
+  width: 80%;
+  margin: 40px auto -15px auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 550px) {
+  .shop-header {
+    justify-content: space-around;
+  }
+}
+.category {
+  width: 250px;
+  margin-top: 20px;
+}

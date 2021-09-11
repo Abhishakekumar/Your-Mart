@@ -1,0 +1,21 @@
+/* Footer  css */
+
+.main-footer {
+  margin-top: 60px;
+  padding-top: 1cm;
+  position: relative;
+  width: 100%;
+}
+
+.jumbotron1 {
+  margin-top: 72px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
