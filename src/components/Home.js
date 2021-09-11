@@ -1,7 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
 import web from "./images/shopimg1.jpg";
-import "./Home.css"
 
 const Home = () => {
     return (

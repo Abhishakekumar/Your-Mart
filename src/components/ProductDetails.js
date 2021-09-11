@@ -2,7 +2,6 @@ import React, { useContext, useEffect } from "react"
 import { useParams } from "react-router-dom";
 import { ProdContext } from "../context/ProductContext";
 import { Link } from "react-router-dom";
-import './ProductDetails.css'
 
 
 const ProductDetails = () => {

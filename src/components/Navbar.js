@@ -1,7 +1,6 @@
 import React, { useContext } from 'react'
 import { NavLink } from 'react-router-dom'
 import { ProdContext } from '../context/ProductContext'
-import "./Navbar.css"
 
 const Navbar = () => {
 

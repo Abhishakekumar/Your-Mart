@@ -1,6 +1,5 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
-import "./Product.css"
 
 function Product(props) {
     const {id,title, image, price, category } = props.data;

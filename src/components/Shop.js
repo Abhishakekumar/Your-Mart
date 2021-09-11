@@ -1,7 +1,6 @@
 import React, {useContext, useState } from 'react'
 import { ProdContext } from '../context/ProductContext'
 import Product from './Product'
-import './Shop.css'
 import Select from 'react-select';
 
 const Shop = () => {

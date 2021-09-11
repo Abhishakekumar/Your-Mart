@@ -1,6 +1,5 @@
 import React, { useContext, useState } from 'react'
 import { ProdContext } from '../context/ProductContext'
-import './Cart.css'
 import CartItem from './CartItem'
 import Select from 'react-select';
 import { NavLink } from 'react-router-dom';
