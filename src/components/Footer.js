@@ -29,9 +29,9 @@ const Footer = () => {
         <h4>Social Accounts</h4>
         <ul className="list-unstyled">
         <li>
-        <a href="https://www.facebook.com/amanrawal2812"><p className="fa fa-facebook"></p></a>
-        <a href="https://www.instagram.com/its.amankr/" ><p className="fa fa-instagram"></p></a>
-        <a href="https://www.linkedin.com/in/aman-kumar2812/" ><p className="fa fa-linkedin"></p></a>
+        <a href="https://www.facebook.com/"><p className="fa fa-facebook"></p></a>
+        <a href="https://www.instagram.com/" ><p className="fa fa-instagram"></p></a>
+        <a href="https://www.linkedin.com/" ><p className="fa fa-linkedin"></p></a>
         </li>
         <li>updated soon...</li>
         </ul>
